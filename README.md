@@ -6,6 +6,8 @@
 
 This repository showcases the solutions for Lab Project 2 of the Autonomous Systems course, which focuses on Classical Planning. It includes PDDL models for a series of navigation and problem-solving exercises designed to deepen the understanding of planning in AI.
 
+---
+
 ## Project Overview
 
 Lab Project 2 is structured around three main sections, each requiring the development and execution of PDDL (Planning Domain Definition Language) models to navigate through a series of complex problems.
@@ -22,12 +24,16 @@ This section extends the navigation problems with the addition of keys and doors
 
 The final part involves completing the PDDL domain definition for a generalized planner and executing it to produce plans that solve all instances in a given set.
 
+---
+
 ## Learning Outcomes
 
 - Mastered classical planning problem modeling in PDDL.
 - Developed a proficiency in automating plan generation using classical planners.
 - Applied problem-solving strategies for navigation and key-door puzzles.
 - Gained insights into generalized planning techniques.
+
+---
 
 ## Additional Information
 
