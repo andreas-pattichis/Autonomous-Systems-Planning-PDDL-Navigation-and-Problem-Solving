@@ -1,6 +1,10 @@
 # Classical Planning Lab Repository
 
-This repository showcases my solutions for Lab Project 2 of the Autonomous Systems course, which focuses on classical planning. It includes PDDL models for a series of navigation and problem-solving exercises designed to deepen the understanding of planning in AI.
+<p align="center">
+  <img src="https://pantelis.github.io/artificial-intelligence/_images/automated-planning.png" width="200" alt="Conversational Agent">
+</p>
+
+This repository showcases the solutions for Lab Project 2 of the Autonomous Systems course, which focuses on Classical Planning. It includes PDDL models for a series of navigation and problem-solving exercises designed to deepen the understanding of planning in AI.
 
 ## Project Overview
 
