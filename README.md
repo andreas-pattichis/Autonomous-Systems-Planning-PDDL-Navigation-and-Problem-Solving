@@ -38,4 +38,3 @@ The final part involves completing the PDDL domain definition for a generalized 
 ## Additional Information
 
 Each section of the lab is documented with specific problem configurations, my PDDL models, and the generated solutions. For detailed explanations of the problem sets and methodologies used, please refer to the individual sections in the repository.
-
