@@ -1,4 +1,4 @@
-# Classical Planning Lab Repository
+# Autonomous Systems Planning: PDDL Navigation and Problem Solving
 
 <p align="center">
   <img src="https://pantelis.github.io/artificial-intelligence/_images/automated-planning.png" alt="Conversational Agent">
